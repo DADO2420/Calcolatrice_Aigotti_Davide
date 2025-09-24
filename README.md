@@ -1,1 +1,6 @@
-# Calcolatrice_Aigotti_Davide
+# Calc
+
+si
+
+aggiunta readme
+
